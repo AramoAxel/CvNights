@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "cvnights",
+  "version": "${version}",
+  "name": "Nuits Spéciales (Cobbleverse)",
+  "description": "Nuits lunaires spéciales pour Cobbleverse : shiny x2, +XP, rareté, IV et capture, plus une montre lunaire et un bonbon de concentration.",
+  "authors": ["Axel & Claude"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/cvnights/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.cvnights.CvNights"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "cobblemon": ">=1.6.0",
+    "enhancedcelestials": "*"
+  }
+}

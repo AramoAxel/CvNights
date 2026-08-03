@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:experience_bottle" },
+    { "item": "cobblemon:exp_candy_m" },
+    { "item": "cobblemon:rare_candy" }
+  ],
+  "result": {
+    "id": "cvnights:focus_candy",
+    "count": 2
+  }
+}

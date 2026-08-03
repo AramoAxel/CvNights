@@ -1,0 +1,41 @@
+{
+  "enhancedcelestials.name.blue_moon": "Lune Bleue",
+  "enhancedcelestials.notification.blue_moon.rise": "\uD83C\uDF15 La Lune Bleue se lève. Les Pokémon ont deux fois plus de chances d'être chromatiques cette nuit.",
+  "enhancedcelestials.notification.blue_moon.set": "La Lune Bleue s'efface avec l'aube.",
+
+  "enhancedcelestials.name.sage_moon": "Lune des Sages",
+  "enhancedcelestials.notification.sage_moon.rise": "\uD83D\uDCDA La Lune des Sages se lève. +50% d'expérience de combat cette nuit.",
+  "enhancedcelestials.notification.sage_moon.set": "La Lune des Sages s'efface avec l'aube.",
+
+  "enhancedcelestials.name.boreal_moon": "Lune Boréale",
+  "enhancedcelestials.notification.boreal_moon.rise": "\uD83C\uDF0C La Lune Boréale se lève. Les Pokémon Rares et Ultra-Rares apparaissent plus souvent cette nuit.",
+  "enhancedcelestials.notification.boreal_moon.set": "La Lune Boréale s'efface avec l'aube.",
+
+  "enhancedcelestials.name.blessed_moon": "Lune Bénie",
+  "enhancedcelestials.notification.blessed_moon.rise": "\uD83D\uDC8E La Lune Bénie se lève. Les Pokémon sauvages capturés ce soir ont au moins 5 IV parfaites.",
+  "enhancedcelestials.notification.blessed_moon.set": "La Lune Bénie s'efface avec l'aube.",
+
+  "enhancedcelestials.name.hunter_moon": "Lune du Chasseur",
+  "enhancedcelestials.notification.hunter_moon.rise": "\uD83C\uDFAF La Lune du Chasseur se lève. +15% de taux de capture cette nuit.",
+  "enhancedcelestials.notification.hunter_moon.set": "La Lune du Chasseur s'efface avec l'aube.",
+
+  "item.cvnights.night_watch": "Montre Lunaire",
+  "item.cvnights.focus_candy": "Bonbon de Concentration",
+
+  "effect.cvnights.focus_boost": "Concentration",
+  "effect.cvnights.focus_fatigue": "Fatigue de Concentration",
+
+  "cvnights.night_watch.tonight": "Ce soir : %s",
+  "cvnights.night_watch.tomorrow": "Prochaine nuit spéciale : %s (dans %s nuit(s))",
+  "cvnights.night_watch.normal": "Nuit normale",
+  "cvnights.night_watch.no_forecast": "Aucune prévision disponible pour le moment.",
+
+  "cvnights.focus_candy.applied": "\u2728 %s ressent un regain de concentration pendant %s minutes !",
+  "cvnights.focus_candy.cooldown": "%s est encore fatigué de son dernier bonbon (encore %s min avant de pouvoir en reprendre un).",
+  "cvnights.focus_candy.already_active": "%s est déjà sous l'effet d'un bonbon de concentration (encore %s min).",
+
+  "cvnights.announce.rise": "%s se lève ce soir. Ses effets s'appliquent partout, même hors Overworld.",
+  "cvnights.announce.set": "La nuit redevient normale.",
+
+  "itemGroup.cvnights.main": "Nuits Spéciales"
+}

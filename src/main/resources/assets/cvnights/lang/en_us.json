@@ -1,0 +1,41 @@
+{
+  "enhancedcelestials.name.blue_moon": "Blue Moon",
+  "enhancedcelestials.notification.blue_moon.rise": "The Blue Moon rises. Pokémon are twice as likely to be shiny tonight.",
+  "enhancedcelestials.notification.blue_moon.set": "The Blue Moon fades with the dawn.",
+
+  "enhancedcelestials.name.sage_moon": "Sage's Moon",
+  "enhancedcelestials.notification.sage_moon.rise": "The Sage's Moon rises. +50% battle XP tonight.",
+  "enhancedcelestials.notification.sage_moon.set": "The Sage's Moon fades with the dawn.",
+
+  "enhancedcelestials.name.boreal_moon": "Boreal Moon",
+  "enhancedcelestials.notification.boreal_moon.rise": "The Boreal Moon rises. Rare and Ultra Rare Pokémon appear more often tonight.",
+  "enhancedcelestials.notification.boreal_moon.set": "The Boreal Moon fades with the dawn.",
+
+  "enhancedcelestials.name.blessed_moon": "Blessed Moon",
+  "enhancedcelestials.notification.blessed_moon.rise": "The Blessed Moon rises. Wild Pokémon caught tonight have at least 5 perfect IVs.",
+  "enhancedcelestials.notification.blessed_moon.set": "The Blessed Moon fades with the dawn.",
+
+  "enhancedcelestials.name.hunter_moon": "Hunter's Moon",
+  "enhancedcelestials.notification.hunter_moon.rise": "The Hunter's Moon rises. +15% catch rate tonight.",
+  "enhancedcelestials.notification.hunter_moon.set": "The Hunter's Moon fades with the dawn.",
+
+  "item.cvnights.night_watch": "Lunar Watch",
+  "item.cvnights.focus_candy": "Focus Candy",
+
+  "effect.cvnights.focus_boost": "Focus",
+  "effect.cvnights.focus_fatigue": "Focus Fatigue",
+
+  "cvnights.night_watch.tonight": "Tonight: %s",
+  "cvnights.night_watch.tomorrow": "Next special night: %s (in %s night(s))",
+  "cvnights.night_watch.normal": "Normal night",
+  "cvnights.night_watch.no_forecast": "No forecast available right now.",
+
+  "cvnights.focus_candy.applied": "%s feels a surge of focus for %s minutes!",
+  "cvnights.focus_candy.cooldown": "%s is still tired from their last candy (%s more min before another).",
+  "cvnights.focus_candy.already_active": "%s is already under a focus candy's effect (%s min left).",
+
+  "cvnights.announce.rise": "%s rises tonight. Its effects apply everywhere, even outside the Overworld.",
+  "cvnights.announce.set": "The night returns to normal.",
+
+  "itemGroup.cvnights.main": "Special Nights"
+}
